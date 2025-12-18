@@ -91,6 +91,7 @@ population-estimation/
 │   └─ 08_estimate_population_for_zone.py # Предсказание, Нормализация, Валидация
 │
 ├─ requirements.txt         # Библиотеки
+├─ population_estimation.qpz# QGIS-файл с населением по зданиям/районам
 └─ README.md                # Этот файл
 ```
 
