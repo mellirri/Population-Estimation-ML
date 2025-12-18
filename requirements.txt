@@ -1,0 +1,9 @@
+pandas
+geopandas
+Path
+shapely
+pyproj
+scikit-learn
+osmnx
+joblib
+openpyxl
